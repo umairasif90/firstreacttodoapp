@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/firstreacttodoapp/static/css/main.cfba83bd.chunk.css",
+    "main.js": "/firstreacttodoapp/static/js/main.89122df0.chunk.js",
+    "main.js.map": "/firstreacttodoapp/static/js/main.89122df0.chunk.js.map",
+    "runtime-main.js": "/firstreacttodoapp/static/js/runtime-main.7b7147fc.js",
+    "runtime-main.js.map": "/firstreacttodoapp/static/js/runtime-main.7b7147fc.js.map",
+    "static/js/2.fb68bea8.chunk.js": "/firstreacttodoapp/static/js/2.fb68bea8.chunk.js",
+    "static/js/2.fb68bea8.chunk.js.map": "/firstreacttodoapp/static/js/2.fb68bea8.chunk.js.map",
+    "index.html": "/firstreacttodoapp/index.html",
+    "static/css/main.cfba83bd.chunk.css.map": "/firstreacttodoapp/static/css/main.cfba83bd.chunk.css.map",
+    "static/js/2.fb68bea8.chunk.js.LICENSE.txt": "/firstreacttodoapp/static/js/2.fb68bea8.chunk.js.LICENSE.txt",
+    "static/media/todo.726438e5.png": "/firstreacttodoapp/static/media/todo.726438e5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b7147fc.js",
+    "static/js/2.fb68bea8.chunk.js",
+    "static/css/main.cfba83bd.chunk.css",
+    "static/js/main.89122df0.chunk.js"
+  ]
+}
